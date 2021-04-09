@@ -1,0 +1,12 @@
+img{
+    margin: 125px auto;
+    display: block;
+    margin-bottom: 20px;
+}
+.button-area{
+    text-align:center;
+}
+button{
+    padding: 8px 30px;
+    font-size: 20px;
+}
